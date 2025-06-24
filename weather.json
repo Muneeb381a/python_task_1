@@ -1,0 +1,46 @@
+[
+    {
+        "coord": {
+            "lon": 74.3436,
+            "lat": 31.5497
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 35.31,
+            "feels_like": 39.49,
+            "temp_min": 35.31,
+            "temp_max": 35.31,
+            "pressure": 994,
+            "humidity": 45,
+            "sea_level": 994,
+            "grnd_level": 969
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.41,
+            "deg": 80,
+            "gust": 1.49
+        },
+        "clouds": {
+            "all": 38
+        },
+        "dt": 1750751917,
+        "sys": {
+            "country": "PK",
+            "sunrise": 1750723132,
+            "sunset": 1750774263
+        },
+        "timezone": 18000,
+        "id": 1172451,
+        "name": "Lahore",
+        "cod": 200
+    }
+]
