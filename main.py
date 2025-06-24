@@ -23,11 +23,6 @@ data = response.json()
 # print(data)
 
 if response.status_code == 200:
-    result = {
-        "city": city,
-        "temperatutre": data["main"]["temp"],
-        "wind-speed": data["wind"]["speed"]
-    }
     data = response.json()
     print(json.dumps(data, indent=4))
 
